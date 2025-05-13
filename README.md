@@ -15,5 +15,5 @@
 
 ### Projects
 
+- [**homepage**](https://github.com/iamseol/homepage): my homepage
 - [**txtweb**](https://github.com/iamseol/txtweb): a text file-based webpage generator
-- [**txtddd**](https://github.com/iamseol/txtddd): a text file-based 3D design generator
